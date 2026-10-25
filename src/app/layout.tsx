@@ -4,6 +4,7 @@ import './globals.css';
 export const metadata: Metadata = {
   title: 'All In Remodeling | Inland Empire Kitchen, Bath & Outdoor Contractors',
   description: 'Owner-supervised kitchen remodeling, luxury bathroom conversions, custom pergolas, and whole-home renovations in Rialto, Rancho Cucamonga, Redlands, and Inland Empire.',
+  robots: { index: false, follow: false },
   icons: {
     icon: '/assets/all-in-remodeling/brand/favicon.ico',
   },
